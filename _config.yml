@@ -1,3 +1,6 @@
 theme: jekyll-theme-minimal
-title: [Meet Yunas Qazi]
-description: [Software Engineer turned Engineering Manager and still learning]
+title: Meet Yunas Qazi
+description: Software Engineer turned Engineering Manager and still learning
+logo: https://avatars2.githubusercontent.com/u/213712?s=400&v=4
+show_downloads: true
+google_analytics: UA-146643924-4
